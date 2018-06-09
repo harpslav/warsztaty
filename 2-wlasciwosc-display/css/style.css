@@ -1,0 +1,29 @@
+.pierwszy {
+    background-color: aquamarine;
+}
+.drugi {
+    background-color: darkgoldenrod;
+}
+.trzeci {
+    background-color: burlywood;
+}
+
+.czwarty {
+    background-color: hotpink
+}
+
+#elementy-blokowe p {
+    display: inline;
+}
+
+#elementy-inline-block ul li {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    text-align: center;
+    }
+
+#display-none p {
+    display: none;
+}
